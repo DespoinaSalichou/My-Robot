@@ -1,4 +1,4 @@
-# app1
+# My Robot - Vue
 
 ## Project setup
 ```
